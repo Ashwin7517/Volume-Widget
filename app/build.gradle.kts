@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.volumewidget"
+    namespace = "com.example.volumecontrol"
     compileSdk = 34
 
     defaultConfig {

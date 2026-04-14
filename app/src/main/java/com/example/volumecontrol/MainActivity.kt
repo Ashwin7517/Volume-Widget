@@ -1,4 +1,4 @@
-package com.example.volumewidget
+package com.example.volumecontrol
 
 import android.content.Context
 import android.media.AudioManager
